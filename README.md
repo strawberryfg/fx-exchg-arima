@@ -1,7 +1,9 @@
 # fx-exchg-arima
 ARIMA
 
+## Disclaimer
 
+some code is borrowed from [here](https://github.com/stefan-jansen/machine-learning-for-trading/blob/main/09_time_series_models/02_arima_models.ipynb)
 
 ## Simple AR(17)
 
